@@ -3,7 +3,7 @@
 ### Author: Morgan T Shaw
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/mts513/lab24/pull/1)
 * [travis](http://xyz.com)
 * [Sandbox](https://codesandbox.io/s/github/mts513/lab24/tree/master/m)
 * [front-end](http://xyz.com) (when applicable)
